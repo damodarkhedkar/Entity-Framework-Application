@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\c#\Entity Framework Application\Entity Framework Application\bin\Debug\Entity Framework Application.exe.config
+C:\Users\Admin\Desktop\c#\Entity Framework Application\Entity Framework Application\bin\Debug\Entity Framework Application.exe
+C:\Users\Admin\Desktop\c#\Entity Framework Application\Entity Framework Application\bin\Debug\Entity Framework Application.pdb
+C:\Users\Admin\Desktop\c#\Entity Framework Application\Entity Framework Application\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\c#\Entity Framework Application\Entity Framework Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\c#\Entity Framework Application\Entity Framework Application\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\c#\Entity Framework Application\Entity Framework Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\c#\Entity Framework Application\Entity Framework Application\obj\Debug\Entity Framework Application.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\c#\Entity Framework Application\Entity Framework Application\obj\Debug\Entity Framework Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\c#\Entity Framework Application\Entity Framework Application\obj\Debug\Entity Framework Application.exe
+C:\Users\Admin\Desktop\c#\Entity Framework Application\Entity Framework Application\obj\Debug\Entity Framework Application.pdb
